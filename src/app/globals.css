@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+html,
+body {
+  overscroll-behavior: none;
+}
+
+h1 {
+  @apply text-5xl lg:text-7xl font-semibold;
+}
+
+h2 {
+  @apply text-3xl sm:text-4xl lg:text-6xl font-medium;
+}
+
+h3 {
+  @apply text-lg sm:text-xl md:text-4xl font-semibold;
+}
+p {
+  @apply text-sm lg:text-xl tracking-tight text-slate-800;
+}
+
+.speaker-label {
+  @apply text-xs sm:text-sm lg:text-xl tracking-tight text-slate-800;
+}
+
+.section-padding {
+  @apply p-8;
+}

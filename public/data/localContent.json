@@ -1,0 +1,77 @@
+{
+  "pageSection": [
+    {
+      "id": "landing",
+      "label": "Overview",
+      "componentType": "LandingSection",
+      "data": {
+        "mainHeading": "Redefining intelligence for a new era",
+        "eventDate": "2025 June 04",
+        "eventLocation": "Javits Center NY",
+        "secondaryHeading": "Exploring Intelligence Together",
+        "description": "A gathering at the edge of possibility — where researchers, builders, and dreamers converge to reflect on the shape of intelligence. Set against the pulse of New York at the Javits Center, June 4 2025.",
+        "buttonText": "Register",
+        "learnMoreText": "Learn more"
+      }
+    },
+    {
+      "id": "speakers",
+      "label": "Speakers",
+      "componentType": "SpeakerSection",
+      "data": {
+        "sectionTitle": "Our Speakers"
+      }
+    },
+    {
+      "id": "faq",
+      "label": "FAQ",
+      "componentType": "FAQSection",
+      "data": {
+        "sectionTitle": "Frequently Asked Questions",
+        "defaultOpenIndex": 0,
+        "faqItems": [
+          {
+            "title": "What is the focus of this AI conference?",
+            "content": "The conference explores recent advancements in AI, machine learning, and their real-world applications across industries."
+          },
+          {
+            "title": "Who should attend the event?",
+            "content": "This event is ideal for researchers, developers, business leaders, students, and anyone interested in the future of AI."
+          },
+          {
+            "title": "Will the sessions be recorded?",
+            "content": "Yes, all keynotes and panel discussions will be recorded and made available to registered attendees after the event."
+          },
+          {
+            "title": "Is there a virtual attendance option?",
+            "content": "Absolutely. A fully interactive virtual experience will be available for those unable to attend in person."
+          },
+          {
+            "title": "How do I become a speaker?",
+            "content": "Submit a proposal through our Call for Speakers form. Submissions are reviewed by our advisory board."
+          },
+          {
+            "title": "Are meals provided during the conference?",
+            "content": "Yes, lunch and refreshments are provided daily, with vegetarian and vegan options available."
+          },
+          {
+            "title": "Can I volunteer at the conference?",
+            "content": "Yes, we welcome volunteers. Applications open one month before the event."
+          },
+          {
+            "title": "Will there be networking opportunities?",
+            "content": "Definitely. There will be dedicated networking sessions, meetups, and social mixers throughout the event."
+          },
+          {
+            "title": "Is there a student discount?",
+            "content": "Yes, students can apply for discounted registration with valid student ID."
+          },
+          {
+            "title": "Where is the venue located?",
+            "content": "The conference will take place at the Downtown Innovation Center, easily accessible by public transit."
+          }
+        ]
+      }
+    }
+  ]
+}
